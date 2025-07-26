@@ -1,0 +1,3 @@
+Here we are to understand the modules and specifications of the project
+
+Once the clarity has come, then we will start coding the data in this branch
