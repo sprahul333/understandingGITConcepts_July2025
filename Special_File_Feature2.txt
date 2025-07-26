@@ -1,0 +1,3 @@
+Understanding the concepts of Feature2 Branch
+
+Here we understand the accounting and calculation related to the finances in this project
