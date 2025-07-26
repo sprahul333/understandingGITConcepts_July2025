@@ -1,3 +1,5 @@
 Hey all, How are you??
 
 We are understanding what are the GIT Concepts and it's real use case in JAVA
+
+Now latest changes are made in both master and feature1 branch
