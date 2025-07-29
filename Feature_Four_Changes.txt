@@ -1,3 +1,0 @@
-Understanding the new modules and new functionalities in the application without making much of an hassle
-
-Here we are to commit the required operations on this branch
